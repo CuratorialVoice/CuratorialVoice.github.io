@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 
 title: Curatorial Voice
 description: A British Academy Project
-logo: https://raw.githubusercontent.com/CuratorialVoice/CuratorialVoice.github.io/master/assets/images/BA-logo.png
+logo: /assets/images/BA-logo.png
