@@ -3,4 +3,4 @@ theme: jekyll-theme-minimal
 title: Curatorial Voice
 description: A British Academy Project
 logo: /assets/images/BA-logo.png
-show_downloads: "true"
+show_downloads: true
