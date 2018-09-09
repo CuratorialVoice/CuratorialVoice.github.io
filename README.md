@@ -10,7 +10,7 @@ The project Co-I is [Andrew Salway](http://www.bbrel.co.uk/), Research Fellow in
 
 ### Funding
 
-*Curatorial Voice* is funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme (1 September 2018 - 31 August 2018).
+*Curatorial Voice* is funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme (1 September 2018 - 31 August 2019).
 
 ### Open
 
