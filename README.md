@@ -14,4 +14,4 @@ The project Co-I is [Andrew Salway](http://www.bbrel.co.uk/), Research Fellow in
 
 ### Open
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Exceptions: logos and marked datasets.
+This project is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (exceptions: logos and marked images). Unless otherwise stated, project code is licensed under a [GNU General Public License v3.0](https://github.com/CuratorialVoice/code/blob/master/LICENSE). As the *Catalogue of Political and Personal Satires Preserved in the Department of Prints and Drawings in the British Museum* is a dataset [published by the British Museum](https://www.britishmuseum.org/about_this_site/terms_of_use/copyright_and_permissions.aspx), data and derived data are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/) [license](https://github.com/CuratorialVoice/data/blob/master/README.md).
