@@ -15,7 +15,7 @@ ______
 
 We are delighted to welcome attendees from the British Library, Museum of London, National Archives, Paul Mellon Centre for Studies in British Art, Science Musuem, University College London, and University of Edinburgh. Spaces are limited. If you'd like to join us, please email [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk).
 
-Curatorial Voice is funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019).
+**'Defining Curatorial Voice'** is the first of two events funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019).
 
 ______
 ### Schedule
