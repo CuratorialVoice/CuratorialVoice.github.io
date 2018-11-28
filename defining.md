@@ -4,7 +4,7 @@ layout: default
 
 # Defining Curatorial Voice
 
-## 26-27 February 2018, Sussex Humanities Lab, University of Sussex
+## 26-27 February 2019, Sussex Humanities Lab, University of Sussex
 
 ______
 ### Overview
