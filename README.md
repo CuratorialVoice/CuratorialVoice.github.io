@@ -8,6 +8,10 @@ This 12-month project will demonstrate how new knowledge about the curation and 
 
 The project Co-I is [Andrew Salway](http://www.bbrel.co.uk/), Research Fellow in Digital Humanities, [School of Media, Film and Music](http://www.sussex.ac.uk/mfm/), [University of Sussex](http://www.sussex.ac.uk/). Andrew has 20 years’ experience of digital text mining and corpus linguistic methods in humanities research, and of project management. He previously applied corpus linguistic techniques to analyse the informational content of audio description (Salway, [2007](http://www.bbrel.co.uk/pdfs/Pre-edited%20version%20Audio%20Description%20a%20Corpus-based%20Analysis.pdf)) and co-developed a generalized system of image-text relations (Martinec and Salway, [2005](http://www.bbrel.co.uk/pdfs/06Martinec-Salway.pdf)).
 
+### Events
+
+Our first event - 'Defining Curatorial Voice' - takes place 26-27 February 2019 (see the [event page](https://curatorialvoice.github.io/defining) for further details). The second event will take place in June 2019.
+
 ### Funding
 
 *Curatorial Voice* is funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019).
