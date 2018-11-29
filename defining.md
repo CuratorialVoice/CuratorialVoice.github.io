@@ -13,7 +13,7 @@ ______
 
 **'Defining Curatorial Voice'** is a two-day workshop that brings together curators, art historians, and information professionals to reflect on the role of curatorial voice in the collections that they work with, to evaluate our corpus linguistic methods for uncovering curatorial voice, and to suggest other collections on which to test our approach.
 
-We are delighted to welcome attendees from the British Library, Museum of London, National Archives, Paul Mellon Centre for Studies in British Art, Science Musuem, University College London, and University of Edinburgh. Spaces are limited. If you'd like to join us, please email [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk).
+We are delighted to welcome attendees from the British Library, Museum of London, National Archives, Paul Mellon Centre for Studies in British Art, Science Museum, University College London, and University of Edinburgh. Spaces are limited. If you'd like to join us, please email [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk).
 
 **'Defining Curatorial Voice'** is the first of two events funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019).
 
