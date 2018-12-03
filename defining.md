@@ -22,13 +22,13 @@ ______
 
 An outline schedule is below. Full details will be posted shortly.
 
-#### Tuesday 26 February: Case Studies of Curatorial Voice
+#### Tuesday 26 February
 
 - Start 11:00
 - Close 16:00
 - Dinner TBC
 
-#### Wednesday 27 February: Corpus Analysis of Curatorial Voice
+#### Wednesday 27 February
 
 - Start 10:00
 - Close 15:00
