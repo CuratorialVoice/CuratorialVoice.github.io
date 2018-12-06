@@ -33,6 +33,11 @@ An outline schedule is below. Full details will be posted shortly.
 - Start 10:00
 - Close 15:00
 
+#### Talks
+
+- [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London), 'Taste'.
+- [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (University of Susses), 'Mary Dorothy George'.
+
 ______
 ### Venue
 
