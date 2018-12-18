@@ -37,6 +37,7 @@ An outline schedule is below. Full details will be posted shortly.
 
 - [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London), 'Taste'.
 - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (University of Sussex), 'Mary Dorothy George'.
+- [Felicity Myrone](https://www.bl.uk/people/experts/felicity-myrone) (British Library), 'Describing K.Top'.
 
 ______
 ### Venue
