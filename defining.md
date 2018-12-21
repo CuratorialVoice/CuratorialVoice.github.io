@@ -35,9 +35,10 @@ An outline schedule is below. Full details will be posted shortly.
 
 #### Talks
 
+- [Felicity Myrone](https://www.bl.uk/people/experts/felicity-myrone) (British Library), 'Describing [K.Top](https://www.bl.uk/projects/kings-topographical-collection-cataloguing-and-digitisation)'.
+- [Dr Jo Pugh](http://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/dr-jo-pugh/) (National Archives), 'How do historians fish?'.
 - [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London), 'Taste'.
 - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (University of Sussex), 'Mary Dorothy George'.
-- [Felicity Myrone](https://www.bl.uk/people/experts/felicity-myrone) (British Library), 'Describing [K.Top](https://www.bl.uk/projects/kings-topographical-collection-cataloguing-and-digitisation)'.
 
 ______
 ### Venue
