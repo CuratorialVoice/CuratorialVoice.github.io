@@ -37,6 +37,8 @@ An outline schedule is below. Full details will be posted shortly.
 
 - [Felicity Myrone](https://www.bl.uk/people/experts/felicity-myrone) (British Library), 'Describing [K.Top](https://www.bl.uk/projects/kings-topographical-collection-cataloguing-and-digitisation)'.
 - [Dr Jo Pugh](http://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/dr-jo-pugh/) (National Archives), 'How do historians fish?'.
+- [Dr Cynthia Roman](https://walpole.library.yale.edu/people/cynthia-roman) (Lewis Walpole Library), 'Histories of collecting and cataloguing at the Lewis Walpole Library'.
+- [Ananda Rutherford](https://twitter.com/smallandcross) (UCL), 'Has the digitisation of museum collections erased curatorial voice?'.
 - [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London), 'Taste'.
 - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (University of Sussex), 'Mary Dorothy George'.
 
