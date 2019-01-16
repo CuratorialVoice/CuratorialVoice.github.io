@@ -13,7 +13,7 @@ ______
 
 **'Defining Curatorial Voice'** is a two-day workshop that brings together curators, art historians, and information professionals to reflect on the role of curatorial voice in the collections that they work with, to evaluate our corpus linguistic methods for uncovering curatorial voice, and to suggest other collections on which to test our approach.
 
-We are delighted to welcome attendees from the British Library, Lewis Walpole Library (Yale), Museum of London, National Archives, Paul Mellon Centre for Studies in British Art, Science Museum, University College London, and University of Edinburgh. Spaces are limited. If you'd like to join us, please email [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk).
+We are delighted to welcome attendees from the British Library, British Museum, Lewis Walpole Library (Yale), Museum of London, National Archives, Paul Mellon Centre for Studies in British Art, Science Museum, University College London, and University of Edinburgh. Spaces are limited. If you'd like to join us, please email [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk).
 
 **'Defining Curatorial Voice'** is the first of two events funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019).
 
@@ -33,13 +33,14 @@ An outline schedule is below. Full details will be posted shortly.
 - Start 10:00
 - Close 15:00
 
-#### Talks
+#### Speakers
 
 - [Felicity Myrone](https://www.bl.uk/people/experts/felicity-myrone) (British Library), 'Describing [K.Top](https://www.bl.uk/projects/kings-topographical-collection-cataloguing-and-digitisation)'.
 - [Dr Jo Pugh](http://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/dr-jo-pugh/) (National Archives), 'How do historians fish?'.
 - [Dr Cynthia Roman](https://walpole.library.yale.edu/people/cynthia-roman) (Lewis Walpole Library), 'Histories of collecting and cataloguing at the Lewis Walpole Library'.
 - [Ananda Rutherford](https://twitter.com/smallandcross) (UCL), 'Has the digitisation of museum collections erased curatorial voice?'.
 - [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London), 'Taste'.
+- [Dr Susannah Walker](https://www.paul-mellon-centre.ac.uk/whats-on/forthcoming/cruikshanks-alcoholics) (British Museum, 'Cataloguing George Cruikshank').
 - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (University of Sussex), 'Mary Dorothy George'.
 
 ______
