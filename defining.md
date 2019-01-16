@@ -40,7 +40,7 @@ An outline schedule is below. Full details will be posted shortly.
 - [Dr Cynthia Roman](https://walpole.library.yale.edu/people/cynthia-roman) (Lewis Walpole Library), 'Histories of collecting and cataloguing at the Lewis Walpole Library'.
 - [Ananda Rutherford](https://twitter.com/smallandcross) (UCL), 'Has the digitisation of museum collections erased curatorial voice?'.
 - [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London), 'Taste'.
-- [Dr Susannah Walker](https://www.paul-mellon-centre.ac.uk/whats-on/forthcoming/cruikshanks-alcoholics) (British Museum, 'Cataloguing George Cruikshank').
+- [Dr Susannah Walker](https://www.paul-mellon-centre.ac.uk/whats-on/forthcoming/cruikshanks-alcoholics) (British Museum), 'Cataloguing George Cruikshank'.
 - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (University of Sussex), 'Mary Dorothy George'.
 
 ______
