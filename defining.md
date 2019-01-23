@@ -29,11 +29,9 @@ An outline schedule is below. Full details will be posted shortly.
 - 11:15 'Mary Dorothy George', [Dr James Baker](http://www.sussex.ac.uk/profiles/371022)
 - 11:30 'The Curatorial Voice Project', Dr James Baker and [Dr Andrew Salway](http://www.sussex.ac.uk/profiles/446030) (Sussex)
 - 11:45 Defining Curatorial Voice 1: Structure and decision making
-
 - 13:00 Lunch
 - 13:20 Working Lunch - 'Corpus analysis words about pictures: the example of audio description', Andrew Salway (Sussex)
 - 13:40 Lunch continues
-
 - 14:00 Talks 1
 	- 'Describing [K.Top](https://www.bl.uk/projects/kings-topographical-collection-cataloguing-and-digitisation)', [Felicity Myrone](https://www.bl.uk/people/experts/felicity-myrone) (British Library)
 	- 'Histories of collecting and cataloguing at the Lewis Walpole Library', [Dr Cynthia Roman](https://walpole.library.yale.edu/people/cynthia-roman) (Lewis Walpole Library)
@@ -41,19 +39,16 @@ An outline schedule is below. Full details will be posted shortly.
 	- 'Taste', [Dr Danielle Thom](https://twitter.com/danielle_j_thom?lang=en) (Museum of London)
 	-  ‘Cataloguing George Cruikshank’, Susannah Walker (British Museum)
 - 16:00 Close
-
 - TBC Dinner in Brighton
 
 #### Wednesday 27 February
 
-- 10:00 Talks 3
+- 10:00 **Talks 3**
 	- ‘How do historians fish?’, [Dr Jo Pugh](http://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/dr-jo-pugh/)
 	- ‘Has the digitisation of museum collections erased curatorial voice?’, [Ananda Rutherford](https://twitter.com/smallandcross) (UCL)
-- 11:00 Defining Curatorial Voice 2: The Life of a Description
-
+- 11:00 **Defining Curatorial Voice 2: The Life of a Description**
 - 12:00 Lunch
-
-- 13:00 Defining Curatorial Voice 3: Analysis at Scale.
+- 13:00 **Defining Curatorial Voice 3: Analysis at Scale**
 - 14:30 Next Steps
 - Close 15:00
 
