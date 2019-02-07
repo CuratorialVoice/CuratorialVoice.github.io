@@ -27,7 +27,7 @@ An outline schedule is below. Full details will be posted shortly.
 - 10:30 Arrivals + Coffee
 - 11:00 **Introductions**
 	- 11:15 'Mary Dorothy George', [Dr James Baker](http://www.sussex.ac.uk/profiles/371022).
-	- 11:30 'The Curatorial Voice Project', Dr James Baker and [Dr Andrew Salway].(http://www.sussex.ac.uk/profiles/446030) (Sussex)
+	- 11:30 'The Curatorial Voice Project', Dr James Baker and [Dr Andrew Salway](http://www.sussex.ac.uk/profiles/446030) (Sussex)
 - 11:45 **Defining Curatorial Voice 1: Structure and decision making**
 - 13:00 Lunch
 - 13:20 **Lunchtime Talk** - 'Corpus analysis words about pictures: the example of audio description', Andrew Salway. (Sussex)
