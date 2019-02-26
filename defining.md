@@ -20,8 +20,6 @@ We are delighted to welcome participants from the British Library, British Museu
 ______
 ### Schedule
 
-An outline schedule is below. Full details will be posted shortly.
-
 #### Tuesday 26 February
 
 - 10:30 Arrivals + Coffee
