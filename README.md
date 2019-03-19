@@ -10,7 +10,7 @@ The project Co-I is [Andrew Salway](http://www.bbrel.co.uk/), Research Fellow in
 
 ### Events
 
-Our first event - 'Defining Curatorial Voice' - takes place 26-27 February 2019 (see the [event page](https://curatorialvoice.github.io/defining) for further details). The second event will take place in June 2019.
+Our first event - 'Defining Curatorial Voice' - took place 26-27 February 2019 (see the [event page](https://curatorialvoice.github.io/defining) for further details). The second event will take place in June 2019.
 
 ### Funding
 
