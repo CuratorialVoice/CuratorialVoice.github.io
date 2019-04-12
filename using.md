@@ -6,6 +6,8 @@ layout: default
 
 ## 18 June 2019, Sussex Humanities Lab, University of Sussex
 
+**[REGISTRATION OPEN](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)**
+
 ______
 ### Overview
 
@@ -18,7 +20,7 @@ ______
 - Applications of IIIF.
 - The use/repurposing of legacy catalogues.
 
-We are delighted to welcome speakers from the Courtauld Institute of Art, Paul Mellon Centre for Studies in British Art, Science Museum, University of Edinburgh, University of Glasgow, and Wellcome Collection. More speakers will be confirmed soon. Spaces are limited. If you'd like to join us, please email [james.baker@sussex.ac.uk](mailto:james.baker@sussex.ac.uk).
+We are delighted to welcome speakers from the Courtauld Institute of Art, Paul Mellon Centre for Studies in British Art, Science Museum, University of Edinburgh, University of Glasgow, and Wellcome Collection. More speakers will be confirmed soon.
 
 **'Using Curatorial Voice'** is the second of two events funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019.
 
@@ -27,7 +29,7 @@ ______
 
 10-5. Exact schedule to be determined.
 
-Confirmed speakers thus far:
+Confirmed speakers include:
 
 - [Dr Beatrice Alex](http://homepages.inf.ed.ac.uk/balex/) (Research Fellow in Text Mining, University of Edinburgh), ‘*Text and beyond: Natural language processing for Edinburgh library and museum image collections*’.
 - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex) and [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex), '*Computational Approaches to Curatorial Voice: 'spatial' language in Catalogue of Political and Personal Satires at the British Musuem*'.
