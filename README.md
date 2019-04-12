@@ -1,7 +1,7 @@
 ## Curatorial Voice: legacy descriptions of art objects and their contemporary uses
 
 
-· **[Using Curatorial Voice Workshop, 18 June](https://curatorialvoice.github.io/using)** · **[Register Here](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)** · **[Event Information](https://curatorialvoice.github.io/using)** ·
+· **[Using Curatorial Voice, 18 June](https://curatorialvoice.github.io/using)** · **[Register Here](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)** · **[Event Information](https://curatorialvoice.github.io/using)** ·
 
 This 12-month project will demonstrate how new knowledge about the curation and the content of image collections can be generated through computer-assisted analysis of curatorial art descriptions. The focus will be on a [catalogue of 1.5 million words](https://en.wikipedia.org/wiki/Catalogue_of_Political_and_Personal_Satires_Preserved_in_the_Department_of_Prints_and_Drawings_in_the_British_Museum) written by the historian [M. Dorothy George](https://doi.org/10.1093/ref:odnb/45657) between 1935 and 1954 to describe 12,552 Georgian satirical prints. A novel mix of computational and art historical methods will facilitate a comprehensive account of such material. This will be the basis for addressing questions about George’s curatorial voice and, more generally, about the authorial voice of institutions in art historical discourse and the contemporary role of legacy descriptions in indexing and understanding image collections. Workshops with art historians, curators and digital Galleries, Libraries, Archives and Museums (GLAM) professionals will serve to promote digital research around image collections and to form a consortium for ongoing research.
 
