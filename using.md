@@ -29,13 +29,13 @@ ______
 
 Confirmed speakers thus far:
 
-- [Dr Beatrice Alex](http://homepages.inf.ed.ac.uk/balex/) (Research Fellow in Text Mining, University of Edinburgh), ‘**Text and beyond: Natural language processing for Edinburgh library and museum image collections**’.
-- [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex) and [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex), '**Computational Approaches to Curatorial Voice: 'spatial' language in Catalogue of Political and Personal Satires at the British Musuem**'.
-- [Tom Bilson](https://courtauld.ac.uk/people/tom-bilson) (Head of Digital Media, Courtauld Institute of Art), '**AI and the Witt Library**'.
-- [Jessica Bradford](https://twitter.com/jessicabrad4) (Keeper of Collections Engagement, Science Museum) and [Jamie Unwin](http://jamie.net/about/) (Technical Architect, Science Museum), ‘**Algorithms vs authoritative voices, the best of both**’.
-- [Dr Luca Guariento](https://www.digital-humanities.arts.gla.ac.uk/members/?id=69) (Digital Humanities Research Officer, University of Glasgow), ‘**Annotations, metadata and web standards in IIIF**’.
+- [Dr Beatrice Alex](http://homepages.inf.ed.ac.uk/balex/) (Research Fellow in Text Mining, University of Edinburgh), ‘*Text and beyond: Natural language processing for Edinburgh library and museum image collections*’.
+- [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex) and [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex), '*Computational Approaches to Curatorial Voice: 'spatial' language in Catalogue of Political and Personal Satires at the British Musuem*'.
+- [Tom Bilson](https://courtauld.ac.uk/people/tom-bilson) (Head of Digital Media, Courtauld Institute of Art), '*AI and the Witt Library*'.
+- [Jessica Bradford](https://twitter.com/jessicabrad4) (Keeper of Collections Engagement, Science Museum) and [Jamie Unwin](http://jamie.net/about/) (Technical Architect, Science Museum), ‘*Algorithms vs authoritative voices, the best of both*’.
+- [Dr Luca Guariento](https://www.digital-humanities.arts.gla.ac.uk/members/?id=69) (Digital Humanities Research Officer, University of Glasgow), ‘*Annotations, metadata and web standards in IIIF*’.
 - [Harrisson Pim](https://harrisonpim.github.io/) (Data Scientist, Wellcome Collection), ‘A new kind of image search’.
-- [Tom Scutt](https://www.paul-mellon-centre.ac.uk/about/people/tom-scutt) (Digital Manager, Paul Mellon Centre for Studies in British Art), ‘**Navigating a digitised corpus: using IIIF as a discovery tool**’.
+- [Tom Scutt](https://www.paul-mellon-centre.ac.uk/about/people/tom-scutt) (Digital Manager, Paul Mellon Centre for Studies in British Art), ‘*Navigating a digitised corpus: using IIIF as a discovery tool*’.
 
 ______
 ### Venue
