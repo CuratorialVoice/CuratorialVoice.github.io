@@ -20,7 +20,7 @@ ______
 - Applications of IIIF.
 - The use/repurposing of legacy catalogues.
 
-We are delighted to welcome speakers from the Courtauld Institute of Art, Paul Mellon Centre for Studies in British Art, Science Museum, University of Edinburgh, University of Glasgow, and Wellcome Collection. More speakers will be confirmed soon.
+We are delighted to welcome speakers from the Courtauld Institute of Art, University of Edinburgh, University of Glasgow, University of Helsinki, Paul Mellon Centre for Studies in British Art, Science Museum, and Wellcome Collection. More speakers will be confirmed soon.
 
 **'Using Curatorial Voice'** is the second of two events funded under the [British Academy](https://www.britac.ac.uk/) [Digital Research in the Humanities Grants](https://www.britac.ac.uk/ba-jisc-digital-research-in-the-humanities) scheme. The project is live between 1 September 2018 and 31 August 2019.
 
