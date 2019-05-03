@@ -40,7 +40,7 @@ ______
 - 13:00-14:00 Lunch
 - 14:00-15:05 **Session 3**
   - [Dr Mikko Tolonen](https://tuhat.helsinki.fi/portal/en/persons/mikko-tolonen(1f6c4343-d64e-48d5-b6af-39d5f3442502).html) (Assistant Professor in Digital Humanities, University of Helsinki), '*The English Short Title Catalogue and metadata harmonization*'.
-  - [Dr Beatrice Alex](http://homepages.inf.ed.ac.uk/balex/) (Research Fellow in Text Mining, University of Edinburgh), ‘*Text and beyond: Natural language processing for Edinburgh library and museum image collections*’.
+  - [Dr Beatrice Alex](hhttps://www.ed.ac.uk/profile/dr-beatrice-alex) (Chancellor's Fellow and Turing Fellow, University of Edinburgh), ‘*Text and beyond: Natural language processing for Edinburgh library and museum image collections*’.
 - 15:20-16:20 **Session 4**
   - [Jessica Bradford](https://twitter.com/jessicabrad4) (Keeper of Collections Engagement, Science Museum) and [Jamie Unwin](http://jamie.net/about/) (Technical Architect, Science Museum), ‘*Algorithms vs authoritative voices, the best of both*’.
   - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex) and [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex), '*Computational Approaches to Curatorial Voice: 'spatial' language in Catalogue of Political and Personal Satires at the British Museum*'.
