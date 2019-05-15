@@ -6,7 +6,7 @@ layout: default
 
 ## 18 June 2019, Sussex Humanities Lab, University of Sussex
 
-**[REGISTER HERE](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)**-----**[CODE OF CONDUCT](https://curatorialvoice.github.io/coc)**
+**···[REGISTER HERE](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)···[CODE OF CONDUCT](https://curatorialvoice.github.io/coc)···**
 
 ______
 ### Overview
