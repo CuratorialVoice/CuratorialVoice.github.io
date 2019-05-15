@@ -17,7 +17,7 @@ Harassment includes, but is not limited to:
 
 ## Enforcement
 
-Participants asked to stop any harassing behavior are expected to comply immediately 
+Participants at a Curatorial Voice event asked to stop any harassing behavior are expected to comply immediately 
 
 If a participant engages in harassing behaviour, event organisers retain the right to take any actions to keep the event a welcoming environment for all participants. This includes warning the offender or expulsion from the event.
 
