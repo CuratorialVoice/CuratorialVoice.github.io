@@ -6,7 +6,7 @@ layout: default
 
 ## 18 June 2019, Sussex Humanities Lab, University of Sussex
 
-**[REGISTER HERE](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)**
+**[REGISTER HERE](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)**-----**[CODE OF CONDUCT](https://curatorialvoice.github.io/coc)**
 
 ______
 ### Overview
@@ -63,6 +63,6 @@ Additional information of campus facilities and maps and directions are availabl
 ______
 ### Code of Conduct
 
-Using Curatorial Voice is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or expelled from the conference at the discretion of the organizers. Our anti-harassment policy can be found at [https://curatorialvoice.github.io/coc](https://curatorialvoice.github.io/coc).
+**'Using Curatorial Voice'** is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or expelled from the conference at the discretion of the organizers. Our anti-harassment policy can be found at [https://curatorialvoice.github.io/coc](https://curatorialvoice.github.io/coc).
 
 [back](./)
