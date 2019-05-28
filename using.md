@@ -45,7 +45,7 @@ ______
   - [Dr Beatrice Alex](hhttps://www.ed.ac.uk/profile/dr-beatrice-alex) (Chancellor's Fellow and Turing Fellow, University of Edinburgh), ‘*Text and beyond: Natural language processing for Edinburgh library and museum image collections*’.
 - 15:25-16:25 **Session 4**
   - [Jessica Bradford](https://twitter.com/jessicabrad4) (Keeper of Collections Engagement, Science Museum) and [Jamie Unwin](http://jamie.net/about/) (Technical Architect, Science Museum), ‘*Algorithms vs authoritative voices, the best of both*’.
-  - [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex) and [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex), '*Computational Approaches to Curatorial Voice: features of the Catalogue of Political and Personal Satires at the British Museum*'.
+  - [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex) and [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex), '*Computational Approaches to Curatorial Voice: features of the Catalogue of Political and Personal Satires at the British Museum*'.
 - 16:25 Next Steps
 - 17:00 Close
 
