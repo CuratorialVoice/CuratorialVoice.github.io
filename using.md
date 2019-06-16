@@ -33,7 +33,7 @@ ______
 - 10:15 Welcome
 - 10:30-11:30 **Session 1**
   - [Tom Scutt](https://www.paul-mellon-centre.ac.uk/about/people/tom-scutt) (Digital Manager, Paul Mellon Centre for Studies in British Art), ‘*Navigating a digitised corpus: using IIIF as a discovery tool*’.
-  - [Dr Luca Guariento](https://www.digital-humanities.arts.gla.ac.uk/members/?id=69) (Digital Humanities Research Officer, University of Glasgow), ‘*Annotations, metadata and web standards in IIIF*’.
+  - [Dr Luca Guariento](https://www.digital-humanities.arts.gla.ac.uk/members/?id=69) (Digital Humanities Research Officer, University of Glasgow), ‘*Digital Editions, IIIF, TEI: where are we?*’.
 - 11:40-12:40 **Session 2**
   - [Harrison Pim](https://harrisonpim.github.io/) (Data Scientist, Wellcome Collection), ‘A new kind of image search’.
   - [Tom Bilson](https://courtauld.ac.uk/people/tom-bilson) (Head of Digital Media, Courtauld Institute of Art), '*AI and the Witt Library*'.
