@@ -34,20 +34,20 @@ ______
 - 10:30-11:30 **Session 1**
   - [Tom Scutt](https://www.paul-mellon-centre.ac.uk/about/people/tom-scutt) (Digital Manager, Paul Mellon Centre for Studies in British Art), ‘*Navigating a digitised corpus: using IIIF as a discovery tool*’.
   - [Dr Luca Guariento](https://www.digital-humanities.arts.gla.ac.uk/members/?id=69) (Digital Humanities Research Officer, University of Glasgow), ‘*Digital Editions, IIIF, TEI: where are we?*’.
-- 11:40-12:40 **Session 2**
+- 11:45-12:45 **Session 2**
   - [Harrison Pim](https://harrisonpim.github.io/) (Data Scientist, Wellcome Collection), ‘A new kind of image search’.
-  - [Tom Bilson](https://courtauld.ac.uk/people/tom-bilson) (Head of Digital Media, Courtauld Institute of Art), '*AI and the Witt Library*'.
-- 12:40-13:30 Lunch
-- 13:30-14:00 **Session 4**
   - [Mahendra Mahey](https://www.bl.uk/people/experts/mahendra-mahey) (Project Manager, British Library Labs), '*Using a digital collection often means learning the story behind it*'
-- 14:10-15:15 **Session 3**
+- 12:45-13:45 Lunch
+- 13:45-14:50 **Session 3**
   - [Dr Mikko Tolonen](https://tuhat.helsinki.fi/portal/en/persons/mikko-tolonen(1f6c4343-d64e-48d5-b6af-39d5f3442502).html) (Assistant Professor in Digital Humanities, University of Helsinki), '*The English Short Title Catalogue and metadata harmonization*'.
   - [Dr Beatrice Alex](hhttps://www.ed.ac.uk/profile/dr-beatrice-alex) (Chancellor's Fellow and Turing Fellow, University of Edinburgh), ‘*Text and beyond: Natural language processing for Edinburgh library and museum image collections*’.
-- 15:25-16:25 **Session 4**
+- 15:05-16:05 **Session 4**
   - [Jessica Bradford](https://twitter.com/jessicabrad4) (Keeper of Collections Engagement, Science Museum) and [Jamie Unwin](http://jamie.net/about/) (Technical Architect, Science Museum), ‘*Algorithms vs authoritative voices, the best of both*’.
   - [Dr Andrew Salway](http://www.bbrel.co.uk/) (Research Fellow in Digital Humanities, University of Sussex) and [Dr James Baker](http://www.sussex.ac.uk/profiles/371022) (Senior Lecturer in Digital History and Archives, University of Sussex), '*Computational Approaches to Curatorial Voice: features of the Catalogue of Political and Personal Satires at the British Museum*'.
-- 16:25 Next Steps
+- 16:15 Next Steps
 - 17:00 Close
+
+~~[Tom Bilson](https://courtauld.ac.uk/people/tom-bilson) (Head of Digital Media, Courtauld Institute of Art), '*AI and the Witt Library*'~~ Unfortunatley, Tom is now unable to attend.
 
 ______
 ### Venue
