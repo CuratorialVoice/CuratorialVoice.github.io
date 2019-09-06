@@ -1,8 +1,5 @@
 ## Curatorial Voice: legacy descriptions of art objects and their contemporary uses
 
-
-· **[Using Curatorial Voice, 18 June](https://curatorialvoice.github.io/using)** · **[Register Here](https://www.eventbrite.co.uk/e/using-curatorial-voice-tickets-60298977866)** · **[Event Information](https://curatorialvoice.github.io/using)** ·
-
 This 12-month project will demonstrate how new knowledge about the curation and the content of image collections can be generated through computer-assisted analysis of curatorial art descriptions. The focus will be on a [catalogue of 1.5 million words](https://en.wikipedia.org/wiki/Catalogue_of_Political_and_Personal_Satires_Preserved_in_the_Department_of_Prints_and_Drawings_in_the_British_Museum) written by the historian [M. Dorothy George](https://doi.org/10.1093/ref:odnb/45657) between 1935 and 1954 to describe 12,552 Georgian satirical prints. A novel mix of computational and art historical methods will facilitate a comprehensive account of such material. This will be the basis for addressing questions about George’s curatorial voice and, more generally, about the authorial voice of institutions in art historical discourse and the contemporary role of legacy descriptions in indexing and understanding image collections. Workshops with art historians, curators and digital Galleries, Libraries, Archives and Museums (GLAM) professionals will serve to promote digital research around image collections and to form a consortium for ongoing research.
 
 ### People
@@ -13,11 +10,22 @@ The project Co-I is [Andrew Salway](http://www.bbrel.co.uk/), Research Fellow in
 
 [Simon Wibberley](http://www.sussex.ac.uk/profiles/199343), Research Fellow in Digital Humanities and member of the Text Analytics Group ([TAG Lab](http://www.taglaboratory.org/)) at the University of Sussex, provided expertise in text classification during two '[sprints](https://www.drupal.org/sprints)' that used Method52 as a classification framework.
 
+### Publications
+
+#### Papers
+
+In peer review!
+
+#### Datasets
+
+- Baker, James, & Salway, Andrew. (2019). Creation of the BMSatire Descriptions corpus (Version v1.0). Zenodo. [doi.org/10.5281/zenodo.3245037](http://doi.org/10.5281/zenodo.3245037) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
+- Baker, James, & Salway, Andrew. (2019). Corpus Linguistic Analysis of the BMSatire Descriptions corpus [Data set]. Zenodo. [doi.org/10.5281/zenodo.3245017](http://doi.org/10.5281/zenodo.3245017) ([Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode))
+
 ### Events
 
 Our first event - 'Defining Curatorial Voice' - took place 26-27 February 2019. See the [event page](https://curatorialvoice.github.io/defining) for further details.
 
-Our second event - 'Using Curatorial Voice' - will take place on 18 June 2019. See the [event page](https://curatorialvoice.github.io/using) for further details.
+Our second event - 'Using Curatorial Voice' - took take place on 18 June 2019. See the [event page](https://curatorialvoice.github.io/using) for further details.
 
 ### Funding
 
