@@ -16,7 +16,8 @@ The project Co-I was [Andrew Salway](http://www.bbrel.co.uk/), Research Fellow i
 
 #### Papers
 
-In peer review!
+- Andrew Salway and James Baker, ‘Investigating Curatorial Voice with Corpus Linguistic Techniques: the case of Dorothy George and applications in museological practice’, *Museum & Society* ([2020](http://sro.sussex.ac.uk/id/eprint/89738/)).
+- And in peer review!
 
 #### Datasets
 
